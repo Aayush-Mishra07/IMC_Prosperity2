@@ -5,5 +5,6 @@ It has 5 Rounds each with manual and algorithmic trading challenges.Algorithmic 
 Team Members : Tarang Rangani,Varad Shinde,Vineet Ghosh,Amol Aggarwal,Aayush Mishra
 
 Our Team finished with Rank 62 in Manual Trading and Overall Rank of 532(~Top 6%) amongst 9140 teams globally across over 90 countries.India Rank was 52 out of 2000+ teams.
+
 This repository has all files used during the whole Competition.
 
